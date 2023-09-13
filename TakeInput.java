@@ -15,7 +15,7 @@ public class TakeInput {
             int age=scanner.nextInt();
             System.out.println("My full name is " +firstname+lastname+"and I am " + age + "years old");
 
-
+scanner.close();
 
     }
     
